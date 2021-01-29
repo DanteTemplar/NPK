@@ -117,10 +117,14 @@ venv.bak/
 # mkdocs documentation
 /site
 
+agrohack/.idea
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
+.idea
+.ipynb_checkpoints
+.gitattributes
 .pyre/
