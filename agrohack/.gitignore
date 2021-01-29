@@ -1,0 +1,10 @@
+dataset/
+train_public/
+*.h5
+*.csv
+.idea/
+*.pkl
+*.json
+.empty/
+plots/
+venv/
